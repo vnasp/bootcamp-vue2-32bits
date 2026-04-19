@@ -1,5 +1,5 @@
-const { defineConfig } = require('@vue/cli-service')
+const { defineConfig } = require("@vue/cli-service");
 module.exports = defineConfig({
-  publicPath: '/32bits-vue2-frontend-user/',
-  transpileDependencies: true
-})
+  publicPath: "/bootcamp-vue2-32bits/",
+  transpileDependencies: true,
+});
